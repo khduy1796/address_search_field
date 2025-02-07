@@ -4,7 +4,7 @@ version: 5.0.3
 homepage: https://github.com/JosLuna98/address_search_field
 
 environment:
-  sdk: ">=2.16.2 <3.0.0"
+  sdk: ">=3.2.3 <4.0.0"
   flutter: ">=2.5.0"
 
 dependencies:
